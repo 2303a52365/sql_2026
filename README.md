@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/2303a52365/sql_2026/tree/master/0596-classes-with-at-least-5-students) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/2303a52365/sql_2026/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/2303a52365/sql_2026/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/2303a52365/sql_2026/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1693-daily-leads-and-partners](https://github.com/2303a52365/sql_2026/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/2303a52365/sql_2026/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
